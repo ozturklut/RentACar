@@ -70,3 +70,6 @@
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/WebAPI/bin/Debug/net6.0/Application.pdb
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/WebAPI/bin/Debug/net6.0/Core.Persistence.pdb
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/WebAPI/bin/Debug/net6.0/Domain.pdb
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/WebAPI/bin/Debug/net6.0/AutoMapper.dll
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/WebAPI/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/WebAPI/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll

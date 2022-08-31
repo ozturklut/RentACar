@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Pk+OANAsowo5lP4L72t+yTz1Ghhr0wYOZlYvoqFdNDBZ9Gn+WL3C9i8fqRvH8CSgbG/HYdEL5/Ua4TioUAseXg==",
+  "dgSpecHash": "mBH3nn5xUOqJGnZ/dK74OWXD6hvsmK7bU3WoUIV3aLWPjrEQNH/Fmfua3yWcyVF4OIiijTLKfi7a+7/rsjQQjQ==",
   "success": true,
   "projectFilePath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/lutfullahozturk/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/lutfullahozturk/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/lutfullahozturk/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/lutfullahozturk/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/lutfullahozturk/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/10.0.1/mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "/Users/lutfullahozturk/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/lutfullahozturk/.nuget/packages/microsoft.entityframeworkcore/6.0.1/microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "/Users/lutfullahozturk/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.1/microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",
     "/Users/lutfullahozturk/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.1/microsoft.entityframeworkcore.analyzers.6.0.1.nupkg.sha512",

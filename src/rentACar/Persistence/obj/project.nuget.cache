@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "zF7WfpzGATnDEohFRlpN4B9KR97/wsyn03BWDEj/CT9ffkffx5WSFNCdYdN/dLXQMkOJzcU2BbsojKf6gk1x2A==",
+  "dgSpecHash": "bxxk1rve0sE8EpqKK13vod+gE6+ghYMhHEzXDyQ61oNIbbxpr3A236ZKiadT7p/qGrp9mvzfw87GNnHmyRvEdQ==",
   "success": true,
   "projectFilePath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/Persistence.csproj",
   "expectedPackageFiles": [
-    "/Users/lutfullahozturk/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/lutfullahozturk/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/lutfullahozturk/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/lutfullahozturk/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/lutfullahozturk/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/lutfullahozturk/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/10.0.1/mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "/Users/lutfullahozturk/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/lutfullahozturk/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/Users/lutfullahozturk/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "/Users/lutfullahozturk/.nuget/packages/microsoft.entityframeworkcore/6.0.8/microsoft.entityframeworkcore.6.0.8.nupkg.sha512",

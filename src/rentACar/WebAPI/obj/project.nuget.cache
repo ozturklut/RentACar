@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "uK5JdJDQAyQ9a/fZXehESgnpLlWzmQL01uLvO23iEOwnM0Ew5E+I2xY5hAzYTqJMN+VvWylwpkSFsHXABvd5wA==",
+  "dgSpecHash": "q4NQ3a9tJw4E0qTa2PQoI2iuEDipS3FigOf19UGBWlHORrXvsreV4Y2OpJS1/6BueIcO68PUZmLBqqIxVrJx2A==",
   "success": true,
   "projectFilePath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/WebAPI/WebAPI.csproj",
   "expectedPackageFiles": [
+    "/Users/lutfullahozturk/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/lutfullahozturk/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/lutfullahozturk/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/lutfullahozturk/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
     "/Users/lutfullahozturk/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
-    "/Users/lutfullahozturk/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/lutfullahozturk/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/10.0.1/mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "/Users/lutfullahozturk/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/lutfullahozturk/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/Users/lutfullahozturk/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "/Users/lutfullahozturk/.nuget/packages/microsoft.entityframeworkcore/6.0.8/microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
