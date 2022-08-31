@@ -580,6 +580,15 @@
           "lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll": {}
         }
       },
+      "System.Linq.Dynamic.Core/1.2.17": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/System.Linq.Dynamic.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/System.Linq.Dynamic.Core.dll": {}
+        }
+      },
       "System.Runtime.Caching/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -725,6 +734,64 @@
             "assetType": "runtime",
             "rid": "win"
           }
+        }
+      },
+      "Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Core.Persistence": "1.0.0",
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Application.dll": {}
+        }
+      },
+      "Core.Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.1",
+          "System.Linq.Dynamic.Core": "1.2.17"
+        },
+        "compile": {
+          "bin/placeholder/Core.Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.Persistence.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Core.Persistence": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Application": "1.0.0",
+          "Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.8",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.8",
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Persistence.dll": {}
         }
       }
     }
@@ -1746,6 +1813,51 @@
         "system.identitymodel.tokens.jwt.nuspec"
       ]
     },
+    "System.Linq.Dynamic.Core/1.2.17": {
+      "sha512": "VSPXm8yUaFqLdOTmLe+6xx0lzasLttySAyfnQw8F6naAPo3iDDGn1231HR0meOZs4xaueXUEFfMek+koKdBS1w==",
+      "type": "package",
+      "path": "system.linq.dynamic.core/1.2.17",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/System.Linq.Dynamic.Core.dll",
+        "lib/net35/System.Linq.Dynamic.Core.pdb",
+        "lib/net35/System.Linq.Dynamic.Core.xml",
+        "lib/net40/System.Linq.Dynamic.Core.dll",
+        "lib/net40/System.Linq.Dynamic.Core.pdb",
+        "lib/net40/System.Linq.Dynamic.Core.xml",
+        "lib/net45/System.Linq.Dynamic.Core.dll",
+        "lib/net45/System.Linq.Dynamic.Core.pdb",
+        "lib/net45/System.Linq.Dynamic.Core.xml",
+        "lib/net46/System.Linq.Dynamic.Core.dll",
+        "lib/net46/System.Linq.Dynamic.Core.pdb",
+        "lib/net46/System.Linq.Dynamic.Core.xml",
+        "lib/net5.0/System.Linq.Dynamic.Core.dll",
+        "lib/net5.0/System.Linq.Dynamic.Core.pdb",
+        "lib/net5.0/System.Linq.Dynamic.Core.xml",
+        "lib/net6.0/System.Linq.Dynamic.Core.dll",
+        "lib/net6.0/System.Linq.Dynamic.Core.pdb",
+        "lib/net6.0/System.Linq.Dynamic.Core.xml",
+        "lib/netcoreapp2.1/System.Linq.Dynamic.Core.dll",
+        "lib/netcoreapp2.1/System.Linq.Dynamic.Core.pdb",
+        "lib/netcoreapp2.1/System.Linq.Dynamic.Core.xml",
+        "lib/netstandard1.3/System.Linq.Dynamic.Core.dll",
+        "lib/netstandard1.3/System.Linq.Dynamic.Core.pdb",
+        "lib/netstandard1.3/System.Linq.Dynamic.Core.xml",
+        "lib/netstandard2.0/System.Linq.Dynamic.Core.dll",
+        "lib/netstandard2.0/System.Linq.Dynamic.Core.pdb",
+        "lib/netstandard2.0/System.Linq.Dynamic.Core.xml",
+        "lib/netstandard2.1/System.Linq.Dynamic.Core.dll",
+        "lib/netstandard2.1/System.Linq.Dynamic.Core.pdb",
+        "lib/netstandard2.1/System.Linq.Dynamic.Core.xml",
+        "lib/uap10.0.10240/System.Linq.Dynamic.Core.dll",
+        "lib/uap10.0.10240/System.Linq.Dynamic.Core.pdb",
+        "lib/uap10.0.10240/System.Linq.Dynamic.Core.pri",
+        "lib/uap10.0.10240/System.Linq.Dynamic.Core.xml",
+        "system.linq.dynamic.core.1.2.17.nupkg.sha512",
+        "system.linq.dynamic.core.nuspec"
+      ]
+    },
     "System.Runtime.Caching/4.7.0": {
       "sha512": "NdvNRjTPxYvIEhXQszT9L9vJhdQoX6AQ0AlhjTU+5NqFQVuacJTfhPVAvtGWNA2OJCqRiR/okBcZgMwI6MqcZg==",
       "type": "package",
@@ -2102,6 +2214,26 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Application/1.0.0": {
+      "type": "project",
+      "path": "../Application/Application.csproj",
+      "msbuildProject": "../Application/Application.csproj"
+    },
+    "Core.Persistence/1.0.0": {
+      "type": "project",
+      "path": "../../corePackages/Core.Persistence/Core.Persistence.csproj",
+      "msbuildProject": "../../corePackages/Core.Persistence/Core.Persistence.csproj"
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "Persistence/1.0.0": {
+      "type": "project",
+      "path": "../Persistence/Persistence.csproj",
+      "msbuildProject": "../Persistence/Persistence.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2111,6 +2243,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.8",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.8",
       "Microsoft.Extensions.DependencyInjection >= 6.0.0",
+      "Persistence >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -2138,7 +2271,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/Persistence.csproj": {
+              "projectPath": "/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/Persistence.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

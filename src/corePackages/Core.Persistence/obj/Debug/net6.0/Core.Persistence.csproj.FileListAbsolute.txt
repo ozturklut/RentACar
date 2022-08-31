@@ -1,0 +1,12 @@
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/corePackages/Core.Persistence/bin/Debug/net6.0/Core.Persistence.deps.json
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/corePackages/Core.Persistence/bin/Debug/net6.0/Core.Persistence.dll
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/corePackages/Core.Persistence/bin/Debug/net6.0/Core.Persistence.pdb
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/corePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.csproj.AssemblyReference.cache
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/corePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/corePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.AssemblyInfoInputs.cache
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/corePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.AssemblyInfo.cs
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/corePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.csproj.CoreCompileInputs.cache
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/corePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.dll
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/corePackages/Core.Persistence/obj/Debug/net6.0/refint/Core.Persistence.dll
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/corePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.pdb
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/corePackages/Core.Persistence/obj/Debug/net6.0/ref/Core.Persistence.dll
