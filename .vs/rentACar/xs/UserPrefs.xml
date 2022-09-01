@@ -1,21 +1,13 @@
 ﻿<Properties StartupConfiguration="{F12A7F16-F6A8-459E-A4D5-95EF616EF52B}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.src.rentACar.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.src.rentACar.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.src.rentACar.Domain FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.src.rentACar.Application FirstBuild="True" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.src.rentACar.Persistence FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.src.rentACar.Infrastructure FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/rentACar/Persistence/PersistenceServiceRegistration.cs">
-    <Files>
-      <File FileName="src/rentACar/Infrastructure/Class1.cs" Line="1" Column="1" />
-      <File FileName="src/rentACar/Persistence/Contexts/BaseDbContext.cs" Line="34" Column="68" />
-      <File FileName="src/rentACar/Application/Services/Repositories/IBrandRepository.cs" Line="8" Column="3" />
-      <File FileName="src/rentACar/Persistence/Repositories/BrandRepository.cs" Line="9" Column="85" />
-      <File FileName="src/rentACar/Persistence/PersistenceServiceRegistration.cs" Line="22" Column="29" />
-    </Files>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -23,13 +15,15 @@
             <Node name="src" expanded="True">
               <Node name="rentACar" expanded="True">
                 <Node name="Application" expanded="True">
-                  <Node name="Services" expanded="True">
-                    <Node name="Repositories" expanded="True" />
-                  </Node>
+                  <Node name="Dependencies" expanded="True" />
                 </Node>
                 <Node name="Persistence" expanded="True">
+                  <Node name="Contexts" expanded="True" />
+                  <Node name="Migrations" expanded="True" />
                   <Node name="Repositories" expanded="True" />
-                  <Node name="PersistenceServiceRegistration.cs" selected="True" />
+                </Node>
+                <Node name="WebAPI" expanded="True">
+                  <Node name="Controllers" expanded="True" />
                 </Node>
               </Node>
             </Node>
