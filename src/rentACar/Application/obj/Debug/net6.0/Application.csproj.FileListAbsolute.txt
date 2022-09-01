@@ -17,3 +17,7 @@
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Application/obj/Debug/net6.0/ref/Application.dll
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Application/bin/Debug/net6.0/Core.CrossCuttingConcerns.dll
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Application/bin/Debug/net6.0/Core.CrossCuttingConcerns.pdb
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Application/bin/Debug/net6.0/Core.Application.dll
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Application/bin/Debug/net6.0/Core.Security.dll
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Application/bin/Debug/net6.0/Core.Application.pdb
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Application/bin/Debug/net6.0/Core.Security.pdb
