@@ -23,6 +23,7 @@
     <None Remove="MediatR.Extensions.Microsoft.DependencyInjection" />
     <None Remove="Features\Brands\Queries\GetListBrand\" />
     <None Remove="FluentValidation.DependencyInjectionExtensions" />
+    <None Remove="Features\Brands\Queries\GetByIdBrand\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Features\" />
@@ -38,6 +39,7 @@
     <Folder Include="Features\Brands\Rules\" />
     <Folder Include="Features\Brands\Commands\CreateBrand\" />
     <Folder Include="Features\Brands\Queries\GetListBrand\" />
+    <Folder Include="Features\Brands\Queries\GetByIdBrand\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\corePackages\Core.Persistence\Core.Persistence.csproj" />
