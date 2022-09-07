@@ -2,11 +2,17 @@
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Persistence.dll
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Persistence.pdb
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Application.dll
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Core.Application.dll
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Core.CrossCuttingConcerns.dll
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Core.Persistence.dll
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Core.Security.dll
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Domain.dll
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Domain.pdb
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Application.pdb
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Core.Application.pdb
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Core.CrossCuttingConcerns.pdb
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Core.Persistence.pdb
+/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Core.Security.pdb
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
@@ -17,9 +23,3 @@
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/obj/Debug/net6.0/refint/Persistence.dll
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/obj/Debug/net6.0/Persistence.pdb
 /Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/obj/Debug/net6.0/ref/Persistence.dll
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Core.CrossCuttingConcerns.dll
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Core.CrossCuttingConcerns.pdb
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Core.Application.dll
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Core.Security.dll
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Core.Application.pdb
-/Users/lutfullahozturk/Desktop/Code/dotnet6/seniorcodecamp/rentACar/src/rentACar/Persistence/bin/Debug/net6.0/Core.Security.pdb

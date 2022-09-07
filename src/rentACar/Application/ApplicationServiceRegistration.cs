@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Reflection;
 using Application.Features.Brands.Rules;
+using Application.Features.Models.Rules;
 using Core.Application.Pipelines.Validation;
 using FluentValidation;
 using MediatR;
@@ -18,6 +19,7 @@ namespace Application
             services.AddMediatR(assm);
 
             services.AddScoped<BrandBusinessRules>();
+            services.AddScoped<ModelBusinessRules>();
 
             services.AddValidatorsFromAssembly(assm);
 
